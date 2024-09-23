@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a PhD candidate in Economics at [Lund Univeristy](https://portal.research.lu.se/en/persons/prakriti-thami) in Sweden, originally from Nepal. My primary research interests lies at the intersection of **market design** and **behavioral economics**. 
 
-I have an MSc. in Economics from Lund, and a BA in economics and visual arts from Brown University. Before pursuing graduate studies, I worked for several years in labor migration research, policy consulting, and humanitarian relief.
+I have an MSc. in Economics from Lund, and a BA in Economics and Visual Arts from Brown University. Before pursuing graduate studies, I worked for several years in labor migration research, economic consulting, and project development.
 
 
 
