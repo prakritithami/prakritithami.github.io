@@ -15,14 +15,14 @@ author_profile: true
 </details>
 
 ## [Multiple Pricing for Personal Assistance Services](https://lucris.lub.lu.se/ws/portalfiles/portal/182837996/WP21_14)
-With Tommy Andersson, Lina Maria Ellegård, Andreea Enache and Albin Erlansson. (Submitted to _Economic Modelling_)
+With Tommy Andersson, Lina Maria Ellegård, Andreea Enache and Albin Erlansson. (_Submitted to Economic Modelling_)
 <details>
   <summary>Abstract</summary>
   <p>Third-party payers often reimburse health care providers based on prospectively set prices. Although a key motivation of prospective payment is to contain costs, this paper shows that this aspect crucially depends on the design of the pricing scheme due to the well-known incentives of patient selection (or “dumping”). This paper provides a general theoretical framework where heterogeneous users are served by either private for-profit or public providers, each paid an hourly compensation by a third-party payer. The private, but not the public providers may select patients. It is demonstrated that this realistic feature of the model implies that total costs depend on the number of prices. The features of the model are illustrated using the Swedish system of personal assistance services as a motivating example. Numerical results show that marginal adjustments to the current uniform pricing scheme would lead to substantial savings.</p>
 </details>
 
 ## Blood Supply Allocation: Trade-off Between Equity and Efficiency
-(Draft coming soon)
+(_Draft coming soon_)
 <details>
   <summary>Abstract</summary>
   <p>ABO blood type compatibility can be exploited to attain a more equitable allocation of blood supply across patients with differing blood types. However, in a steady state, pooling procedures that seek to equalize the proportion of patients that get treated across compatible blood types could have an adverse effect on the total flow rate of treated patients. To address this issue, in this paper I derive the criteria which would ensure an efficient allocation and prove that in pairwise iterative pooling procedures as long as this efficiency criterion is satisfied in each step in which blood types are pooled, the final allocation will not be inefficient.</p>
