@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link to my [CV](https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/_files/CV.pdf)
+Here is a link to my [CV](https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/files/CV.pdf)
 
 
 Education
