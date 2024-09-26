@@ -60,11 +60,11 @@ $text-color: #2e2e2e; // Darker text color for readability against light backgro
   z-index: 1000; // Ensure the header is on top of other elements
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); // Optional: Add a subtle shadow for separation
 
-  // Remove white box around the text (if present)
+  // Remove any background color or box-shadow around the navigation items
   .masthead__menu-item, .masthead__menu {
-    background: none; // Remove any background color from the menu items
-    box-shadow: none; // Remove any box shadow
-    padding: 0; // Reset padding to avoid unwanted space
+    background: none !important; // Ensure no background is applied
+    box-shadow: none !important; // Remove any box shadow
+    padding: 0 !important; // Reset padding to avoid unwanted space
   }
 }
 
@@ -73,4 +73,16 @@ body {
   margin-top: $header-height + $header-padding; // Adds space to prevent content overlap
 }
 
+// Adjust the profile picture to be fully visible below the header
+.author__avatar {
+  position: relative;
+  top: $header-height + $header-padding; // Push the image down below the fixed header
+  z-index: 1010; // Ensure the profile picture is above the header
+}
+
+// Optional: Additional styling to align the profile picture or adjust spacing
+.author__content {
+  margin-top: $header-height + $header-padding + 20px; // Ensure text content does not overlap
+  z-index: 1010; // Ensure content is visible above other elements
+}
 
