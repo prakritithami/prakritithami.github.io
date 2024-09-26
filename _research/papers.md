@@ -15,7 +15,7 @@ author_profile: true
 </details>
 
 ## [Multiple Pricing for Personal Assistance Services](https://lucris.lub.lu.se/ws/portalfiles/portal/182837996/WP21_14)
-With <a href="https://sites.google.com/site/tommyanderssonlunduniversity/home" target="_blank">Tommy Andersson</a>, <a href="https://sites.google.com/site/linamariaellegaard" target="_blank">Lina Maria Ellegård</a>, <a href="https://sites.google.com/view/andreea-enache" target="_blank">Andreea Enache</a>, and <a href="https://erlanson.weebly.com/" target="_blank">Albin Erlsson</a>. 
+With <a href="https://sites.google.com/site/tommyanderssonlunduniversity/home" target="_blank">Tommy Andersson</a>, <a href="https://sites.google.com/site/linamariaellegaard" target="_blank">Lina Maria Ellegård</a>, <a href="https://sites.google.com/view/andreea-enache" target="_blank">Andreea Enache</a>, and <a href="https://erlanson.weebly.com/" target="_blank">Albin Erlsson</a>.  
 (_Resubmitted to Economic Modelling_)
 <details>
   <summary>Abstract</summary>
