@@ -44,6 +44,8 @@
 $header-height: 80px;
 $header-bg-color: #3a506b; // Muted blue color
 $text-color: #FFFFFF;
+$dropdown-bg-color: #3a506b; // Background color for the dropdown menu
+$dropdown-text-color: #ffffff; // Text color for the dropdown menu
 
 .masthead {
   background-color: $header-bg-color; // Set the background color to muted blue
@@ -65,18 +67,25 @@ body {
   margin-top: $header-height; // Adds space to prevent content overlap
 }
 
-// Mobile view dropdown menu styling
+// Styles for the dropdown menu in mobile view
 @media (max-width: 768px) {
   .masthead .dropdown-menu {
-    background-color: $header-bg-color; // Use the same background color as the header
-    color: $text-color; // Set the text color to ensure visibility
+    background-color: $dropdown-bg-color !important; // Set dropdown background color
+    color: $dropdown-text-color !important; // Set dropdown text color
   }
 
   // Ensure all dropdown items are visible
   .masthead .dropdown-menu a {
-    color: $text-color !important; // Ensure link text color is visible
+    color: $dropdown-text-color !important; // Force text color for links
     background: none !important; // Remove any background colors on links
     box-shadow: none !important; // Remove any box shadows
+    padding: 10px; // Add padding for better touch support
+  }
+
+  // Add hover and focus styles for better visibility
+  .masthead .dropdown-menu a:hover,
+  .masthead .dropdown-menu a:focus {
+    background-color: lighten($dropdown-bg-color, 10%) !important; // Slightly lighter background on hover
+    color: $dropdown-text-color !important; // Keep text color consistent
   }
 }
-
