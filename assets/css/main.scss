@@ -39,3 +39,32 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+ /* Header Container */
+.masthead {
+    display: flex;
+    align-items: center;
+    height: 60px; /* Adjust the height as needed */
+    background-color: #2a9d8f; /* Optional: Change the background color */
+    padding: 0 20px; /* Adds padding inside the header */
+}
+
+/* Navigation Bar */
+.masthead__menu {
+    display: flex;
+    justify-content: flex-start; /* Left-align the navigation items */
+    flex-grow: 1; /* Allows the navigation to take available space */
+}
+
+/* Navigation Links */
+.masthead__menu-item {
+    margin-right: 20px; /* Adds space between each navigation link */
+    font-size: 18px; /* Increase the font size if needed */
+}
+
+/* Site Title or Logo (Optional) */
+.masthead__menu-item--lg {
+    font-size: 24px; /* Size of the site title or logo */
+    padding-right: 20px; /* Adds space between the title and the navigation */
+}
+
