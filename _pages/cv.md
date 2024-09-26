@@ -42,7 +42,4 @@ Languages
 Technical Proficiencies
 ======
 * R, Python, Matlab, STATA, SPSS, CSPro, Qualtrix, LaTeX
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
