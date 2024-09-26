@@ -67,15 +67,19 @@ body {
   margin-top: $header-height; // Adds space to prevent content overlap
 }
 
-.masthead .dropdown-menu {
-  background-color: $dropdown-bg-color; // Set dropdown background color
-  color: $dropdown-text-color; // Set dropdown text color
-}
+@media (max-width: 768px) {
+  // Remove custom styles here
+  .masthead .dropdown-menu {
+    background-color: initial; // Reset to the original background color
+    color: initial; // Reset to the original text color
+    border: none; // Remove any custom borders
+    box-shadow: initial; // Reset to original box-shadow if any
+  }
 
-.masthead .dropdown-menu a {
-  color: $dropdown-text-color; // Set text color for links
-  padding: 10px; // Add padding for better touch support
-  display: block; // Make links take the full width of the dropdown
-  text-decoration: none; // Remove underline from links
+  .masthead .dropdown-menu a {
+    color: initial; // Reset link color to original
+    padding: initial; // Remove custom padding
+    display: initial; // Revert to original display property
+    text-decoration: initial; // Revert text decoration
+  }
 }
-
