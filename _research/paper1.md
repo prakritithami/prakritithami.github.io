@@ -1,14 +1,33 @@
 ---
-title: "Paper Title Number 3"
-collection: research
-category: manuscripts
-permalink: /research/paper1
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+layout: archive
+title: ""
+permalink: /research/
+author_profile: true
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+{% include base_path %}
+
+Master's-Level Courses
+======
+
+* Advanced Microeconomic Analysis (Fall 2020, 2021, 2023)
+* Time Series Analysis (Spring 2021, 2022)
+* Financial Valuation and Risk Management (Spring 2022)
+* Empirical Finance (Fall 2021)
+* Mathematical Methods (Fall 2020)
+* Advanced Econometrics (Fall 2020)
+
+Multiple Pricing for Personal Assistance Services
+======
+
+Abstract: Third-party payers often reimburse health care providers based on prospectively set prices.
+Although a key motivation of prospective payment is to contain costs, this paper shows that
+this aspect crucially depends on the design of the pricing scheme due to the well-known in-
+centives of patient selection (or “dumping”). This paper provides a general theoretical frame-
+work where heterogeneous users are served by either private for-profit or public providers,
+each paid an hourly compensation by a third-party payer. The private, but not the public
+providers may select patients. It is demonstrated that this realistic feature of the model im-
+plies that total costs depends on the number of prices. The features of the model is illustrated
+using the Swedish system of personal assistance services as a motivating example. Numeri-
+cal results show that marginal adjustments to the current uniform pricing scheme would lead
+to substantial savings.
