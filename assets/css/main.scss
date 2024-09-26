@@ -96,7 +96,7 @@ body {
 
 // Mobile view styles
 @media (max-width: 768px) {
-  .masthead .dropdown-menu {
+  .masthead .masthead_menu {
     background-color: $header-bg-color !important; // Ensure the dropdown has the same background color as the header
     color: $text-color !important; // Ensure the text color is white
   }
