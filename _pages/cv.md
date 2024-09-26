@@ -34,12 +34,12 @@ Other experiences
 
 * Sept 2021 - Aug 2022: Working Committee Member
   * **Economic Doctor Council (EDR)**, Lund University, Lund, Sweden
-
-Languages
-======
-* English (fluent), Nepali (native), Swedish (intermediate), Hindi (advanced)
     
 Technical Proficiencies
 ======
 * R, Python, Matlab, STATA, SPSS, CSPro, Qualtrix, LaTeX
+
+Languages
+======
+* English (fluent), Nepali (native), Swedish (intermediate), Hindi (advanced)
 
