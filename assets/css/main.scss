@@ -65,3 +65,25 @@ body {
   margin-top: $header-height; // Adds space to prevent content overlap
 }
 
+// Mobile view dropdown menu styling
+@media (max-width: 768px) {
+  .masthead .dropdown-menu {
+    background-color: $header-bg-color; // Use the same background color as the header
+    color: $text-color; // Set the text color to ensure visibility
+  }
+
+  // Ensure all dropdown items are visible
+  .masthead .dropdown-menu a {
+    color: $text-color !important; // Ensure link text color is visible
+    background: none !important; // Remove any background colors on links
+    box-shadow: none !important; // Remove any box shadows
+  }
+
+  // Additional styling for better visibility
+  .masthead .dropdown-menu a:hover,
+  .masthead .dropdown-menu a:focus {
+    background-color: lighten($header-bg-color, 10%); // Slightly lighter background on hover
+    color: darken($text-color, 10%); // Slightly darker text on hover
+  }
+}
+
