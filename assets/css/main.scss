@@ -48,7 +48,6 @@ $text-color: #ffffff; // White text color for contrast
 .masthead {
   background-color: $header-bg-color; // Set the background color to muted blue
   height: $header-height; // Set the height of the header
-  display: flex; // Use flexbox for easy alignment of content
   color: $text-color; // Set text color to white for contrast
 }
 
