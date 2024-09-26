@@ -94,19 +94,20 @@ body {
   margin-top: $header-height; // Adds space to prevent content overlap
 }
 
+// Mobile view styles
 @media (max-width: 768px) {
-  // Remove custom styles here
   .masthead .dropdown-menu {
-    background-color: initial; // Reset to the original background color
-    color: initial; // Reset to the original text color
-    border: none; // Remove any custom borders
-    box-shadow: initial; // Reset to original box-shadow if any
+    background-color: $header-bg-color !important; // Same background color as the header
+    color: $text-color !important; // Same text color as the header
+    border: none !important; // Remove any custom borders
+    box-shadow: none !important; // Remove any box shadows
   }
 
   .masthead .dropdown-menu a {
-    color: initial; // Reset link color to original
-    padding: initial; // Remove custom padding
-    display: initial; // Revert to original display property
-    text-decoration: initial; // Revert text decoration
+    color: $text-color !important; // White text color for dropdown links
+    padding: 10px !important; // Add padding for better touch support
+    display: block !important; // Make each link take the full width of the dropdown
+    text-decoration: none !important; // Remove any text decoration (underline)
+    background: none !important; // Remove any custom background colors
   }
 }
