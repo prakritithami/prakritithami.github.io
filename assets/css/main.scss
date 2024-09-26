@@ -97,17 +97,20 @@ body {
 // Mobile view styles
 @media (max-width: 768px) {
   .masthead .dropdown-menu {
-    background-color: $header-bg-color !important; // Same background color as the header
-    color: $text-color !important; // Same text color as the header
+    background-color: $header-bg-color !important; // Ensure the dropdown has the same background color as the header
+    color: $text-color !important; // Ensure the text color is white
     border: none !important; // Remove any custom borders
     box-shadow: none !important; // Remove any box shadows
+    position: absolute; // Ensure the dropdown menu is positioned correctly
+    width: 100%; // Make the dropdown take the full width
+    z-index: 9999; // Ensure the dropdown is above other elements
   }
 
   .masthead .dropdown-menu a {
-    color: $text-color !important; // White text color for dropdown links
+    color: $text-color !important; // Set text color for dropdown links to white
     padding: 10px !important; // Add padding for better touch support
     display: block !important; // Make each link take the full width of the dropdown
-    text-decoration: none !important; // Remove any text decoration (underline)
+    text-decoration: none !important; // Remove underline from the links
     background: none !important; // Remove any custom background colors
   }
 }
