@@ -47,6 +47,15 @@ $header-bg-color: #a0c4ff; // Muted blue color
 .masthead {
   background-color: $header-bg-color; // Set the background color to muted blue
   height: $header-height; // Set the height of the header
+  border: none; 
+}
+
+// Ensure no unwanted background or borders on header items
+.masthead * {
+  background: none !important; // Remove any background colors
+  box-shadow: none !important; // Remove any box shadows
+  border: none !important; // Remove any borders
+  color: inherit; // Ensure text color is inherited from the .masthead
 }
 
 // Adjust the top margin of the main content to accommodate the header height
