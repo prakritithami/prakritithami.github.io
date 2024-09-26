@@ -44,8 +44,6 @@
 $header-height: 80px;
 $header-bg-color: #3a506b; // Muted blue color
 $text-color: #FFFFFF;
-$dropdown-bg-color: #3a506b; // Background color for the dropdown menu
-$dropdown-text-color: #000000; // Text color for the dropdown menu
 
 .masthead {
   background-color: $header-bg-color; // Set the background color to muted blue
@@ -91,8 +89,8 @@ body {
     padding: 10px !important; // Add padding for better touch support
     display: block !important; // Make each link take the full width of the menu
     text-decoration: none !important; // Remove underline from the links
-    background: none !important; // Remove any custom background colors
-    border: none !important; // Remove any custom borders
+    background-color: $header-bg-color !important; // Remove any custom background colors
+    border: $header-bg-color !important; // Remove any custom borders
   }
 
 }
