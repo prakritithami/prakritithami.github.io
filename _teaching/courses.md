@@ -1,8 +1,11 @@
 ---
+layout: archive
 title: "Courses"
-layout: single
-permalink: /teaching/courses/
+permalink: /teaching/
+author_profile: true
 ---
+
+{% include base_path %}
 
 Master's-Level Courses
 ======
