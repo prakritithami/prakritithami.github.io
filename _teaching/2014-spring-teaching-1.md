@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Courses"
 collection: teaching
 type: "Graduate courses"
 permalink: /teaching/2014-spring-teaching-1
