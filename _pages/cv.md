@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Here is a link to my [CV](https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/main/files/cv.pdf)
+
+
 Education
 ======
 * Ph.D in Economics, Lund University, 2025 (expected)
