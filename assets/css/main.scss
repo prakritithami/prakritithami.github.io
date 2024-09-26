@@ -67,37 +67,46 @@ body {
   margin-top: $header-height; // Adds space to prevent content overlap
 }
 
-// Media query for mobile view
-@media (max-width: 768px) {
-  // Revert styles for .masthead
-  .masthead {
-    background-color: #ffffff !important; // Reset to original background color
-    color: #000000 !important; // Reset to original text color
-    height: auto; // Revert to auto height for mobile
-    padding: 10px 15px; // Adjust padding for mobile
-  }
 
-  // Revert styles for dropdown menu
+
+// Variables for customization
+$header-height: 80px;
+$header-bg-color: #3a506b; // Muted blue color
+$text-color: #FFFFFF;
+
+.masthead {
+  background-color: $header-bg-color; // Set the background color to muted blue
+  height: $header-height; // Set the height of the header
+  color: $text-color;
+  border: none; 
+}
+
+// Ensure no unwanted background or borders on header items
+.masthead * {
+  background: none !important; // Remove any background colors
+  box-shadow: none !important; // Remove any box shadows
+  border: none !important; // Remove any borders
+  color: $text-color !important;
+}
+
+// Adjust the top margin of the main content to accommodate the header height
+body {
+  margin-top: $header-height; // Adds space to prevent content overlap
+}
+
+@media (max-width: 768px) {
+  // Remove custom styles here
   .masthead .dropdown-menu {
-    background-color: #ffffff !important; // Revert to original background color
-    color: #000000 !important; // Revert to original text color
-    border: none !important; // Remove custom borders
-    box-shadow: none !important; // Remove any custom box shadows
+    background-color: initial; // Reset to the original background color
+    color: initial; // Reset to the original text color
+    border: none; // Remove any custom borders
+    box-shadow: initial; // Reset to original box-shadow if any
   }
 
   .masthead .dropdown-menu a {
-    color: #000000 !important; // Revert link color to original
-    padding: 8px 15px !important; // Adjust padding for mobile
-    display: block !important; // Ensure proper display for links in mobile view
-    text-decoration: none !important; // Remove underlines if they were added
-    background: none !important; // Remove any custom background colors
-  }
-
-  // Reset any other custom styles within masthead
-  .masthead * {
-    background: none !important; // Remove any custom backgrounds
-    box-shadow: none !important; // Remove any custom box shadows
-    border: none !important; // Remove custom borders
-    color: #000000 !important; // Reset text color
+    color: initial; // Reset link color to original
+    padding: initial; // Remove custom padding
+    display: initial; // Revert to original display property
+    text-decoration: initial; // Revert text decoration
   }
 }
