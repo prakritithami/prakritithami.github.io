@@ -15,7 +15,7 @@ Please find below a brief overview of my experience.
 
 Education
 ======
-* Ph.D in Economics, Lund University, 2025 (expected)
+* Ph.D Candidate in Economics, Lund University (present)
 * M.Sc. in Economics, Lund University, 2018
 * B.A. in Economics and Visual Arts, Brown University, 2011
 
