@@ -49,8 +49,6 @@ $text-color: #ffffff; // White text color for contrast
   background-color: $header-bg-color; // Set the background color to muted blue
   height: $header-height; // Set the height of the header
   display: flex; // Use flexbox for easy alignment of content
-  align-items: center; // Vertically center the content
-  justify-content: center; // Horizontally center the content
   color: $text-color; // Set text color to white for contrast
   padding: 0 20px; // Optional: Add padding to the sides
 }
