@@ -216,7 +216,7 @@ collections:
     permalink: /teaching/:path/
   research:
     output: true
-    permalink: /publications/:path/
+    permalink: /research/:path/
 
 
 # These settings control how pages and collections are included in the site
