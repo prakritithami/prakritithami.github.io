@@ -67,19 +67,37 @@ body {
   margin-top: $header-height; // Adds space to prevent content overlap
 }
 
+// Media query for mobile view
 @media (max-width: 768px) {
-  // Remove custom styles here
+  // Revert styles for .masthead
+  .masthead {
+    background-color: #ffffff !important; // Reset to original background color
+    color: #000000 !important; // Reset to original text color
+    height: auto; // Revert to auto height for mobile
+    padding: 10px 15px; // Adjust padding for mobile
+  }
+
+  // Revert styles for dropdown menu
   .masthead .dropdown-menu {
-    background-color: initial; // Reset to the original background color
-    color: initial; // Reset to the original text color
-    border: none; // Remove any custom borders
-    box-shadow: initial; // Reset to original box-shadow if any
+    background-color: #ffffff !important; // Revert to original background color
+    color: #000000 !important; // Revert to original text color
+    border: none !important; // Remove custom borders
+    box-shadow: none !important; // Remove any custom box shadows
   }
 
   .masthead .dropdown-menu a {
-    color: initial; // Reset link color to original
-    padding: initial; // Remove custom padding
-    display: initial; // Revert to original display property
-    text-decoration: initial; // Revert text decoration
+    color: #000000 !important; // Revert link color to original
+    padding: 8px 15px !important; // Adjust padding for mobile
+    display: block !important; // Ensure proper display for links in mobile view
+    text-decoration: none !important; // Remove underlines if they were added
+    background: none !important; // Remove any custom background colors
+  }
+
+  // Reset any other custom styles within masthead
+  .masthead * {
+    background: none !important; // Remove any custom backgrounds
+    box-shadow: none !important; // Remove any custom box shadows
+    border: none !important; // Remove custom borders
+    color: #000000 !important; // Reset text color
   }
 }
