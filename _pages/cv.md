@@ -19,7 +19,7 @@ Education
 * M.Sc. in Economics, Lund University, 2018
 * B.A. in Economics and Visual Arts, Brown University, 2011
 
-Work experience
+Work Experience
 ======
 * Oct 2017 - Present: Teaching and Research Assistant
   * **Lund University**, Lund Sweden
@@ -31,7 +31,7 @@ Work experience
   * **Center for the Study of Labour and Mobility**, Kathmandu Nepal
 
   
-Other experiences
+Other Experience
 ======
 * Nov 2021 - Aug 2024: Working Paper Series Editor
   * **Lund University**, Lund, Sweden
