@@ -57,7 +57,7 @@ $text-color: #000000;
   background: none !important; // Remove any background colors
   box-shadow: none !important; // Remove any box shadows
   border: none !important; // Remove any borders
-  color: inherit; // Ensure text color is inherited from the .masthead
+  color: $text-color !important;
 }
 
 // Adjust the top margin of the main content to accommodate the header height
