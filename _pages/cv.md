@@ -11,6 +11,7 @@ redirect_from:
 
 Here is a link to my [CV](https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/master/files/CV.pdf)
 
+Please find below a brief overview of my experience.
 
 Education
 ======
