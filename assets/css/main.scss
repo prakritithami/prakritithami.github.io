@@ -78,12 +78,5 @@ body {
     background: none !important; // Remove any background colors on links
     box-shadow: none !important; // Remove any box shadows
   }
-
-  // Additional styling for better visibility
-  .masthead .dropdown-menu a:hover,
-  .masthead .dropdown-menu a:focus {
-    background-color: lighten($header-bg-color, 10%); // Slightly lighter background on hover
-    color: darken($text-color, 10%); // Slightly darker text on hover
-  }
 }
 
