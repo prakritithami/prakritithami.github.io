@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Master's-Level Courses"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Master's-Level Courses"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Lund University, Department of Economics"
+date: #2014-01-01
 location: "City, Country"
 ---
+* Advanced Microeconomic Analysis (Fall 2020, 2021, 2023) 
+* Time Series Analysis (Spring 2021, 2022)
+* Mathematical Methods (Fall 2020)
+* Advanced Econometrics (Fall 2020)
+* Empirical Finance (Fall 2021)
+* Financial Valuation and Risk Management (Spring 2022)
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
