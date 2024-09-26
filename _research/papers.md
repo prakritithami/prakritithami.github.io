@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Truth-Telling in a Priority Pricing Mechanism
+(Job Market Paper)
 <details>
   <summary>Abstract</summary>
   <p> This paper examines the effects of truth-telling on expected aggregate consumer welfare within a priority pricing (PP) mechanism. Traditional models typically assume that individuals will invariably misrepresent private information if it maximizes their payoff; however, a substantial body of evidence suggests otherwise. Considering this, the expected aggregate consumer welfare of PP is compared to that of uniform pricing schemes, using a model that accounts for truth-telling preferences. The findings indicate that a threshold proportion of non-truthful, low-need agents must be surpassed for PP to enhance welfare. This theoretical insight implies that implementing PP can be advantageous in populations with a low propensity for truth-telling but may reduce welfare in populations with a high propensity for truth-telling. This theory is tested through a pre-registered, online, survey-based experiment. Although the anticipated differential impact between high and low truth-telling groups was not observed, the results provide valuable insights for policy considerations.</p>
