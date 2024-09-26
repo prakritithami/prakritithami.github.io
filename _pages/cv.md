@@ -41,7 +41,7 @@ Other Experience
     
 Technical Proficiencies
 ======
-* R, Python, Matlab, STATA, SPSS, CSPro, Qualtrix, LaTeX
+* R, Python, Matlab, STATA, SPSS, CSPro, Qualtrics, LaTeX
 
 Languages
 ======
