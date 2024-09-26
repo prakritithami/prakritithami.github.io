@@ -11,53 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Lund University, 2025 (expected)
+* M.Sc. in Economics, Lund University, 2018
+* B.A. in Economics and Visual Arts, Brown University, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2017 - Present: Teaching and Research Assistant
+  * Lund University, Lund Sweden
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2015 - Jul 2016: Program Development Officer
+  * CARE Nepal, Kathmandu, Nepal
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* March 2013 - Oct 2015: Research Associate
+  * Center for the Study of Labour and Mobility, Kathmandu Nepal
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Other experiences
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Nov 2021 - Aug 2024: Working Paper Series Editor
+  * Lund University, Lund, Sweden
+
+* Sept 2021 - Aug 2022: Working Committee Member
+  * Economic Doctor Council (EDR), Lund University, Lund, Sweden
+
+Languages
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* English (fluent), Nepali (native), Swedish (intermediate), Hindi (advanced)
+    
+Technical Proficiencies
+======
+* R, Python, Matlab, STATA, SPSS, CSPro, Qualtrix, LaTeX
   
 Service and leadership
 ======
