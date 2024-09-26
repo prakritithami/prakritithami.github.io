@@ -7,6 +7,7 @@ layout: compress
 <!doctype html>
   <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
     <head>
+    {% include head.html %}
     <meta charset="utf-8">
     <!-- Begin SEO -->
     <title>Prakriti Thami</title>
@@ -18,10 +19,8 @@ layout: compress
     <meta property="og:title" content="Prakriti Thami">
     <link rel="canonical" href="https://prakritithami.github.io/">
     <meta property="og:url" content="https://prakritithami.github.io/">
-    <!-- Include other meta tags here -->
-    <!-- end SEO -->
+    {% include head/custom.html %}
   </head>
-
 
   <body>
 
