@@ -40,33 +40,40 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Header Container */
-.masthead {
-    position: relative; /* Ensures proper positioning of pseudo-elements */
-    background: url('https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/master/images/header.jpg') no-repeat center center;
-    background-size: cover; /* Ensure the image covers the header */
-    height: 200px; /* Adjust the height as needed */
-    display: flex;
-    align-items: center; /* Vertically center the content */
-    justify-content: center; /* Horizontally center the content */
-    color: #ffffff; /* Ensure text is readable */
-}
+// Variables for easy customization
+$header-height: 200px;
+$header-padding: 20px;
+$header-bg-image: 'https://username.github.io/assets/images/header-bg.jpg'; // Replace with your actual image URL
+$overlay-color: rgba(255, 255, 255, 0.5); // Light overlay with 50% opacity
+$text-color: #2e2e2e; // Darker text color for readability against light background
 
-/* Add a translucent overlay using a pseudo-element */
-.masthead::before {
+.masthead {
+  position: relative; // Ensures proper positioning of pseudo-elements
+  background: url($header-bg-image) no-repeat center center;
+  background-size: cover; // Ensure the image covers the header
+  height: $header-height; // Use variable for height
+  padding: $header-padding; // Use variable for padding
+  color: $text-color; // Darker text color for better readability on light overlay
+
+  // Pseudo-element for translucent light overlay
+  &::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Black overlay with 50% opacity */
-    z-index: 1; /* Place below the text content */
+    background: $overlay-color; // Light overlay
+    z-index: 1; // Place below the text content
+  }
+
+  // Ensure text and navigation are above the translucent overlay
+  .site-nav,
+  .masthead__menu-item,
+  .masthead__menu {
+    position: relative;
+    z-index: 2; // Place above the pseudo-element
+  }
 }
 
-/* Ensure text and navigation are above the translucent overlay */
-.masthead .site-nav, .masthead .masthead__menu-item, .masthead__menu {
-    position: relative;
-    z-index: 2; /* Place above the pseudo-element */
-}
 
