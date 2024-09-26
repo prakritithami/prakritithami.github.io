@@ -3,9 +3,9 @@ title: "Master's-Level Courses"
 collection: teaching
 type: "Master's-Level Courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Lund University, Department of Economics"
+venue: #"Lund University, Department of Economics"
 date: #2014-01-01
-location: "City, Country"
+location: #"City, Country"
 ---
 * Advanced Microeconomic Analysis (Fall 2020, 2021, 2023) 
 * Time Series Analysis (Spring 2021, 2022)
