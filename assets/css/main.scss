@@ -112,3 +112,12 @@ hr {
     border: 1px solid #d3d3d3; /* Light Gray Divider */
     margin: 30px 0;
 }
+
+.author__avatar {
+    display: block; /* Ensures the image behaves like a block element */
+    max-width: 150px; /* Adjust the size as needed */
+    border-radius: 50%; /* Ensures the image is circular */
+    margin-top: 20px; /* Adds space above the image */
+    z-index: 10; /* Ensures the image is on top of other elements */
+    position: relative; /* Helps manage overlapping elements */
+}
