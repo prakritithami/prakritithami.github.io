@@ -1,3 +1,7 @@
+---
+permalink: /teaching/courses
+---
+
 **Master's-Level Courses**
   
   * Advanced Microeconomic Analysis (Fall 2020, 2021, 2023) 
