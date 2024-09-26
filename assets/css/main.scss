@@ -68,11 +68,10 @@ body {
 }
 
 // Mobile view styles
-
 @media (max-width: 768px) {
-  // Apply styles specifically to the .masthead__inner-wrap .masthead__menu
+  // Ensure the menu is visible by default for testing
   .masthead .masthead__inner-wrap .masthead__menu {
-    display: none; // Hide the menu by default
+    display: block !important; // Ensure the menu is always visible
     background-color: $header-bg-color !important; // Set the background color to match the header
     color: $text-color !important; // Ensure the text color is white
     border: 2px solid $header-bg-color; // Add a border with the same color as the header
@@ -84,16 +83,6 @@ body {
     top: 100%; // Position the menu just below the header
     left: 0; // Align menu to the left edge
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // Optional: Add a subtle shadow for depth
-    opacity: 0; // Start with opacity 0 (hidden)
-    transform: translateY(-10px); // Slightly shift the menu upwards when hidden
-    transition: opacity 0.3s ease, transform 0.3s ease; // Smooth transition for visibility
-  }
-
-  // Show the menu when the navicon is active
-  .navicon.is-active + .masthead__menu {
-    display: block !important; // Make sure the menu is displayed
-    opacity: 1 !important; // Full opacity when active
-    transform: translateY(0); // No translation when visible
   }
 
   // Apply styles to menu links within .masthead__menu
@@ -106,10 +95,4 @@ body {
     border: none !important; // Remove any custom borders
   }
 
-  // Optional: Add hover effect for menu links
-  .masthead .masthead__inner-wrap .masthead__menu a:hover {
-    background-color: lighten($header-bg-color, 10%) !important; // Lighten the background on hover
-    color: $text-color !important; // Keep text color consistent
-  }
 }
-
