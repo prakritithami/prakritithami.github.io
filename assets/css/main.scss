@@ -67,37 +67,47 @@ body {
   margin-top: $header-height; // Adds space to prevent content overlap
 }
 
-
-
-// Variables for customization
-$header-height: 80px;
-$header-bg-color: #3a506b; // Muted blue color
-$text-color: #FFFFFF;
-
-.masthead {
-  background-color: $header-bg-color; // Set the background color to muted blue
-  height: $header-height; // Set the height of the header
-  color: $text-color;
-  border: none; 
-}
-
-// Ensure no unwanted background or borders on header items
-.masthead * {
-  background: none !important; // Remove any background colors
-  box-shadow: none !important; // Remove any box shadows
-  border: none !important; // Remove any borders
-  color: $text-color !important;
-}
-
-// Adjust the top margin of the main content to accommodate the header height
-body {
-  margin-top: $header-height; // Adds space to prevent content overlap
-}
-
 // Mobile view styles
 @media (max-width: 768px) {
+  // Apply styles specifically to the .masthead__inner-wrap .masthead__menu
   .masthead .masthead__inner-wrap .masthead__menu {
-    background-color: $header-bg-color !important; // Ensure the dropdown has the same background color as the header
+    background-color: $header-bg-color !important; // Ensure the menu has the same background color as the header
     color: $text-color !important; // Ensure the text color is white
+    border: none !important; // Remove any custom borders
+    box-shadow: none !important; // Remove any box shadows
+    position: absolute !important; // Ensure the menu is positioned correctly
+    width: 100% !important; // Make the menu take the full width
+    z-index: 9999 !important; // Ensure the menu is above other elements
+    top: 100%; // Position the menu just below the header
+    left: 0; // Align menu to the left edge
+  }
+
+  // Apply styles to menu links within .masthead__menu
+  .masthead .masthead__inner-wrap .masthead__menu a {
+    color: $text-color !important; // Set text color for menu links to white
+    padding: 10px !important; // Add padding for better touch support
+    display: block !important; // Make each link take the full width of the menu
+    text-decoration: none !important; // Remove underline from the links
+    background: none !important; // Remove any custom background colors
+    border: none !important; // Remove any custom borders
+  }
+
+  // Styles for the .navicon toggle button in mobile view
+  .masthead .navicon {
+    display: block !important; // Ensure the navicon is visible in mobile view
+    color: $text-color !important; // Set navicon color to white
+    background: none !important; // Remove any background colors
+    border: none !important; // Remove any borders
+    cursor: pointer; // Change the cursor to a pointer
+  }
+
+  // Additional reset for .masthead elements to ensure mobile view works correctly
+  .masthead .masthead__inner-wrap * {
+    color: $text-color !important; // Force the text color to be white
+    background: none !important; // Remove any background colors
+    border: none !important; // Remove any borders
+    box-shadow: none !important; // Remove any box shadows
   }
 }
+
+
