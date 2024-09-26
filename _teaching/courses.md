@@ -1,5 +1,6 @@
 ---
 title: "Courses"
+layout: single
 permalink: /teaching/courses
 ---
 
