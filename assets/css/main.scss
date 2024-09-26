@@ -48,7 +48,8 @@ $text-color: #FFFFFF;
 .masthead {
   background-color: $header-bg-color; // Set the background color to muted blue
   height: $header-height; // Set the height of the header
-  color: $text-color; 
+  color: $text-color;
+  text-align: right;
   border: none; 
 }
 
