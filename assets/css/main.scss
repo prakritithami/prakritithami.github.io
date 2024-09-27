@@ -65,32 +65,6 @@ body {
   margin-top: $header-height; // Adds space to prevent content overlap
 }
 
-.masthead__menu {
-  display: flex; /* Use flexbox for alignment */
-  justify-content: flex-end; /* Align items to the right */
-  align-items: center; /* Vertically center the items */
-  flex-wrap: nowrap; /* Prevent wrapping of items */
-  width: 100%; /* Ensure the container spans the full width */
-  padding-right: 20px; /* Optional: Add some space to the right */
-  overflow: visible; /* Prevent any hidden overflow */
-}
-
-.masthead__menu a {
-  margin-left: 20px; /* Add space between navigation items */
-  text-decoration: none; /* Remove underline from links */
-  color: inherit; /* Inherit text color */
-  white-space: nowrap; /* Prevent text from wrapping inside items */
-}
-
-/* Optional: Adjust the container that holds the navigation menu */
-.masthead__inner-wrap {
-  display: flex; /* Use flexbox for layout */
-  justify-content: space-between; /* Distribute space between elements */
-  align-items: center; /* Center elements vertically */
-  width: 100%; /* Full width of the container */
-}
-
-
 
 // Mobile view styles
 @media (max-width: 768px) {
