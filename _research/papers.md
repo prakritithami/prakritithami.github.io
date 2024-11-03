@@ -26,7 +26,7 @@ author_profile: true
 
 # PUBLICATIONS 
 
-## Peer reviewed journals
+## Peer-Reviewed Journals
 
 ### [Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
 With <a href="https://sites.google.com/site/tommyanderssonlunduniversity/home" target="_blank">Tommy Andersson</a>, <a href="https://sites.google.com/site/linamariaellegaard" target="_blank">Lina Maria Ellegård</a>, <a href="https://sites.google.com/view/andreea-enache" target="_blank">Andreea Enache</a>, and <a href="https://erlanson.weebly.com/" target="_blank">Albin Erlanson</a>.  
@@ -53,6 +53,12 @@ With Ashim Bhattarai.
 ## [Migration and Resilience: Experiences from Nepal's 2015 Earthquake](https://www.ceslam.org/uploads/backup/Migration-and-Resilience.pdf)
 With Bandita Sijapati, Jeevan Baniya, Anish Bhandari, Ashim Bhattarai, Sambriddhi Kharel, Amrita Limbu, Dinesh Pathak and Nabin Rawal.
 **Research Paper VII**, CESLAM, 2015 
+<details>
+  <summary>Introduction</summary>
+  <p>A landlocked country with diverse geographic and climatic features, Nepal is known to be highly vulnerable to a range of natural hazards, particularly droughts, earthquakes, floods and landslides. The risk arising from natural disasters is further exacerbated by the poor socio-economic condition of the
+country’s population. Over the past two decades, Nepal’s record in reducing poverty has been noteworthy, with poverty headcount having fallen from 42 per cent in 1995/96 to 25 per cent in 2010/11. Yet, a significant number of households remain ever vulnerable to slipping back into poverty as over 70 per cent of Nepalis still live on less than USD 2.5 a day. To exacerbate matters, inequality across social groups and regions has persisted over the years. Thus, the Central Region with an HDI of 0.510 (in 2011) has consistently ranked at the top while the Far-Western Region with an HDI of 0.435 has remained at the bottom. In terms of regional comparison, Nepal’s 2011 HDI score of 0.458 is among the lowest in South Asia.
 
+  <p>In such a context, outmigration (both internal and external), especially of the youth for employment opportunities, has been high. In the fiscal year 2013/14 alone, approximately half a million Nepalis, mainly young men and women, took up foreign employment. (This figure excludes migrants to India and migrant workers who went abroad without government-issued labour permits, both categories that are not captured in the government data.) The total official remittance received during the first nine months of FY 2013/14 was almost NPR 400 billion (USD 4 billion), or close to 30 per cent of the country’s total GDP.
 
-
+  <p>In the aftermath of the M 7.8 earthquake that struck central Nepal on 25 April 2015, and its aftershocks, particularly a major one of M 7.3 on 12 May 2015, issues related to the links between migration and disaster-preparedness as well as coping strategies adopted by the affected population have come to the fore. To examine such linkages, the Centre for the Study of Labour and Mobility (CESLAM) at the Social Science Baha (SSB), with support from the International Labour Organisation (ILO) and the International Migration Initiative of the Open Society Foundations, New York, undertook a quick assessment in four of the 14 severely affected districts, namely, Sindhupalchowk, Kavrepalanchowk, Dhading and Kathmandu, to understand how households with migrants—both external and internal—have coped with the natural disaster and whether there is any evidence of greater resilience on the part of such households.
+</details>
