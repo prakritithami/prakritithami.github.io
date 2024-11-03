@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 # WORK IN PROGRESS
+---
 ### Truth-Telling in a Priority Pricing Mechanism
 (_**Job Market Paper**_ - _Draft coming soon_)
 <details>
@@ -22,6 +23,7 @@ author_profile: true
 </details> <br><br>
 
 # PUBLICATION (Peer-Reviewed Journal)
+---
 ### [Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
 With <a href="https://sites.google.com/site/tommyanderssonlunduniversity/home" target="_blank">Tommy Andersson</a>, <a href="https://sites.google.com/site/linamariaellegaard" target="_blank">Lina Maria Ellegård</a>, <a href="https://sites.google.com/view/andreea-enache" target="_blank">Andreea Enache</a>, and <a href="https://erlanson.weebly.com/" target="_blank">Albin Erlanson</a>.  
 _**Economic Modelling**_, 2024
@@ -35,6 +37,7 @@ _**Economic Modelling**_, 2024
 **Supplimentary Material:** [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2) <br><br><br>
 
 # OTHER
+---
 ### [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
 With Ashim Bhattarai.<br>
 _**CESLAM Policy Brief No. 7**_, 2015
