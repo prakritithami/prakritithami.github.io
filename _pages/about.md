@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in Economics at [Lund Univeristy](https://portal.research.lu.se/en/persons/prakriti-thami) in Sweden. My primary research interests lie at the intersection of **market design** and **behavioral economics**. My work explores how individual behavior, incentives and institutional frameworks shape the allocation of scarce healthcare resources. To address these questions, I combine theoretical modeling with experimental and computational methods, aiming to translate theoretical insights into practical applications. 
+<p align="justify">I am a PhD candidate in Economics at [Lund Univeristy](https://portal.research.lu.se/en/persons/prakriti-thami) in Sweden. My primary research interests lie at the intersection of **market design** and **behavioral economics**. My work explores how individual behavior, incentives and institutional frameworks shape the allocation of scarce healthcare resources. To address these questions, I combine theoretical modeling with experimental and computational methods, aiming to translate theoretical insights into practical applications.</p> 
 
-I have an MSc in Economics from Lund University, and a BA in Economics and Visual Arts from Brown University. Before pursuing graduate studies, I worked for several years, gaining experience in labor migration research, economic consulting, and project development.
+<p align="justify">I have an MSc in Economics from Lund University, and a BA in Economics and Visual Arts from Brown University. Before pursuing graduate studies, I worked for several years, gaining experience in labor migration research, economic consulting, and project development.</p>
 
 I am currently on the job market for the 2024/2025 academic year.
 
