@@ -15,6 +15,7 @@ author_profile: true
   <p> This paper examines the effects of truth-telling on expected aggregate consumer welfare within a priority pricing (PP) mechanism. Traditional models typically assume that individuals will invariably misrepresent private information if it maximizes their payoff; however, a substantial body of evidence suggests otherwise. Considering this, the expected aggregate consumer welfare of PP is compared to that of uniform pricing schemes, using a model that accounts for truth-telling preferences. The findings indicate that a threshold proportion of non-truthful, low-need agents must be surpassed for PP to enhance welfare. This theoretical insight implies that implementing PP can be advantageous in populations with a low propensity for truth-telling but may reduce welfare in populations with a high propensity for truth-telling. This theory is tested through a pre-registered, online, survey-based experiment. Although the anticipated differential impact between high and low truth-telling groups was not observed, the results provide valuable insights for policy considerations.</p>
 </details>
 
+
 ## Blood Supply Allocation: Trade-off Between Equity and Efficiency
 (_Draft coming soon_)
 <details>
@@ -33,6 +34,7 @@ _**Economic Modelling**_, 2024
 </details>
 
 Supplimentary Material: [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2)
+Presented at: 12th Conference on Economic Design (Padova, Italy)
 
 # OTHER
 ## [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
