@@ -39,7 +39,7 @@ _**Economic Modelling**_, 2024
 # OTHER
 ### [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
 With Ashim Bhattarai.
-**CESLAM Policy Brief No. 7,** 2015
+_**CESLAM Policy Brief No. 7**_, 2015
 <details>
   <summary>Abstract</summary>
   <p>Of the half a million or so Nepalis who left the country for work in 2013/14, nearly three quarters were classified as ‘unskilled’. This tendency of the majority of migrants being poorly trained is a cause for concern since low-skilled and ‘unskilled’ workers are more vulnerable to exploitation and abuse, are accorded fewer job benefits, and face limited earning potential. Addressing this issue will require a strong, well-organised technical and vocational education sector which is also attuned to the needs of the foreign employment labour market. This policy paper provides an overview of Nepal’s technical training sector, identifies the key challenges and issues that need to be addressed vis-à-vis labour migration, and provides recommendations on how these could be addressed.</p>
@@ -47,7 +47,7 @@ With Ashim Bhattarai.
 
 ### [Migration and Resilience: Experiences from Nepal's 2015 Earthquake](https://www.ceslam.org/uploads/backup/Migration-and-Resilience.pdf)
 With Bandita Sijapati, Jeevan Baniya, Anish Bhandari, Ashim Bhattarai, Sambriddhi Kharel, Amrita Limbu, Dinesh Pathak and Nabin Rawal.
-**Research Paper VII**, CESLAM, 2015 
+_**Research Paper VII**_, CESLAM, 2015 
 <details>
   <summary>Introduction</summary>
   <p>A landlocked country with diverse geographic and climatic features, Nepal is known to be highly vulnerable to a range of natural hazards, particularly droughts, earthquakes, floods and landslides. The risk arising from natural disasters is further exacerbated by the poor socio-economic condition of the
