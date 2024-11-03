@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 # WORK IN PROGRESS
----
+<hr style="border: 1px solid;">
 ### Truth-Telling in a Priority Pricing Mechanism
 (_**Job Market Paper**_ - _Draft coming soon_)
 <details>
@@ -20,7 +20,7 @@ author_profile: true
 <details>
   <summary>Abstract</summary>
   <p>ABO blood type compatibility can be exploited to attain a more equitable allocation of blood supply across patients with differing blood types. However, in a steady state, pooling procedures that seek to equalize the proportion of patients that get treated across compatible blood types could have an adverse effect on the total flow rate of treated patients. To address this issue, in this paper I derive the criteria which would ensure an efficient allocation and prove that in pairwise iterative pooling procedures as long as this efficiency criterion is satisfied in each step in which blood types are pooled, the final allocation will not be inefficient.</p>
-</details> <br><br>
+</details> <br>
 
 # PUBLICATION (Peer-Reviewed Journal)
 ---
@@ -34,7 +34,7 @@ _**Economic Modelling**_, 2024
 
 **Presented at:** 12th Conference on Economic Design (Padova, 2022)
 
-**Supplimentary Material:** [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2) <br><br><br>
+**Supplimentary Material:** [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2) <br><br>
 
 # OTHER
 ---
