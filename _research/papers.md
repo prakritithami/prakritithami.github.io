@@ -21,8 +21,9 @@ author_profile: true
   <p>ABO blood type compatibility can be exploited to attain a more equitable allocation of blood supply across patients with differing blood types. However, in a steady state, pooling procedures that seek to equalize the proportion of patients that get treated across compatible blood types could have an adverse effect on the total flow rate of treated patients. To address this issue, in this paper I derive the criteria which would ensure an efficient allocation and prove that in pairwise iterative pooling procedures as long as this efficiency criterion is satisfied in each step in which blood types are pooled, the final allocation will not be inefficient.</p>
 </details>
 
-# PUBLICATIONS (Peer-Reviewed Journals)
-## [Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
+
+# PUBLICATION (Peer-Reviewed Journal)
+### [Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
 With <a href="https://sites.google.com/site/tommyanderssonlunduniversity/home" target="_blank">Tommy Andersson</a>, <a href="https://sites.google.com/site/linamariaellegaard" target="_blank">Lina Maria Ellegård</a>, <a href="https://sites.google.com/view/andreea-enache" target="_blank">Andreea Enache</a>, and <a href="https://erlanson.weebly.com/" target="_blank">Albin Erlanson</a>.  
 _**Economic Modelling**_, 2024
 <details>
@@ -31,10 +32,12 @@ _**Economic Modelling**_, 2024
 </details>
 
 **Presented at:** 12th Conference on Economic Design (Padova, 2022)
+
 **Supplimentary Material:** [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2)
 
+
 # OTHER
-## [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
+### [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
 With Ashim Bhattarai.
 **CESLAM Policy Brief No. 7,** 2015
 <details>
@@ -42,7 +45,7 @@ With Ashim Bhattarai.
   <p>Of the half a million or so Nepalis who left the country for work in 2013/14, nearly three quarters were classified as ‘unskilled’. This tendency of the majority of migrants being poorly trained is a cause for concern since low-skilled and ‘unskilled’ workers are more vulnerable to exploitation and abuse, are accorded fewer job benefits, and face limited earning potential. Addressing this issue will require a strong, well-organised technical and vocational education sector which is also attuned to the needs of the foreign employment labour market. This policy paper provides an overview of Nepal’s technical training sector, identifies the key challenges and issues that need to be addressed vis-à-vis labour migration, and provides recommendations on how these could be addressed.</p>
 </details>
 
-## [Migration and Resilience: Experiences from Nepal's 2015 Earthquake](https://www.ceslam.org/uploads/backup/Migration-and-Resilience.pdf)
+### [Migration and Resilience: Experiences from Nepal's 2015 Earthquake](https://www.ceslam.org/uploads/backup/Migration-and-Resilience.pdf)
 With Bandita Sijapati, Jeevan Baniya, Anish Bhandari, Ashim Bhattarai, Sambriddhi Kharel, Amrita Limbu, Dinesh Pathak and Nabin Rawal.
 **Research Paper VII**, CESLAM, 2015 
 <details>
