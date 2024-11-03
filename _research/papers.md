@@ -41,7 +41,7 @@ _**Economic Modelling**_, 2024
 # OTHER
 <hr style="border: 1.5px solid;">
 
-### Labour Migration and Skills Training
+### <a href="https://www.ceslam.org/policy-briefs/labour-migration-and-skills-training" target="_blank">Labour Migration and Skills Training</a>
 With Ashim Bhattarai.<br>
 _**CESLAM Policy Brief No. 7**_, 2015
 <details>
@@ -49,7 +49,7 @@ _**CESLAM Policy Brief No. 7**_, 2015
   <p>Of the half a million or so Nepalis who left the country for work in 2013/14, nearly three quarters were classified as ‘unskilled’. This tendency of the majority of migrants being poorly trained is a cause for concern since low-skilled and ‘unskilled’ workers are more vulnerable to exploitation and abuse, are accorded fewer job benefits, and face limited earning potential. Addressing this issue will require a strong, well-organised technical and vocational education sector which is also attuned to the needs of the foreign employment labour market. This policy paper provides an overview of Nepal’s technical training sector, identifies the key challenges and issues that need to be addressed vis-à-vis labour migration, and provides recommendations on how these could be addressed.</p>
 </details>
 
-### Migration and Resilience: Experiences from Nepal's 2015 Earthquake
+### [Migration and Resilience: Experiences from Nepal's 2015 Earthquake]()
 With Bandita Sijapati, Jeevan Baniya, Anish Bhandari, Ashim Bhattarai, Sambriddhi Kharel, Amrita Limbu, Dinesh Pathak and Nabin Rawal. <br>
 _**Research Paper VII**_, CESLAM, 2015 
 <details>
