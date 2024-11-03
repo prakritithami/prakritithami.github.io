@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 # WORK IN PROGRESS
-#### Truth-Telling in a Priority Pricing Mechanism
+### Truth-Telling in a Priority Pricing Mechanism
 (_**Job Market Paper**_ - _Draft coming soon_)
 <details>
   <summary>Abstract</summary>
   <p> This paper examines the effects of truth-telling on expected aggregate consumer welfare within a priority pricing (PP) mechanism. Traditional models typically assume that individuals will invariably misrepresent private information if it maximizes their payoff; however, a substantial body of evidence suggests otherwise. Considering this, the expected aggregate consumer welfare of PP is compared to that of uniform pricing schemes, using a model that accounts for truth-telling preferences. The findings indicate that a threshold proportion of non-truthful, low-need agents must be surpassed for PP to enhance welfare. This theoretical insight implies that implementing PP can be advantageous in populations with a low propensity for truth-telling but may reduce welfare in populations with a high propensity for truth-telling. This theory is tested through a pre-registered, online, survey-based experiment. Although the anticipated differential impact between high and low truth-telling groups was not observed, the results provide valuable insights for policy considerations.</p>
 </details>
 
-#### Blood Supply Allocation: Trade-off Between Equity and Efficiency
+### Blood Supply Allocation: Trade-off Between Equity and Efficiency
 (_Draft coming soon_)
 <details>
   <summary>Abstract</summary>
@@ -22,7 +22,7 @@ author_profile: true
 </details> <br><br>
 
 # PUBLICATION (Peer-Reviewed Journal)
-#### [Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
+### [Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
 With <a href="https://sites.google.com/site/tommyanderssonlunduniversity/home" target="_blank">Tommy Andersson</a>, <a href="https://sites.google.com/site/linamariaellegaard" target="_blank">Lina Maria Ellegård</a>, <a href="https://sites.google.com/view/andreea-enache" target="_blank">Andreea Enache</a>, and <a href="https://erlanson.weebly.com/" target="_blank">Albin Erlanson</a>.  
 _**Economic Modelling**_, 2024
 <details>
@@ -32,10 +32,10 @@ _**Economic Modelling**_, 2024
 
 **Presented at:** 12th Conference on Economic Design (Padova, 2022)
 
-**Supplimentary Material:** [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2) <br><br>
+**Supplimentary Material:** [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2) <br><br><br>
 
 # OTHER
-#### [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
+### [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
 With Ashim Bhattarai.<br>
 _**CESLAM Policy Brief No. 7**_, 2015
 <details>
@@ -43,7 +43,7 @@ _**CESLAM Policy Brief No. 7**_, 2015
   <p>Of the half a million or so Nepalis who left the country for work in 2013/14, nearly three quarters were classified as ‘unskilled’. This tendency of the majority of migrants being poorly trained is a cause for concern since low-skilled and ‘unskilled’ workers are more vulnerable to exploitation and abuse, are accorded fewer job benefits, and face limited earning potential. Addressing this issue will require a strong, well-organised technical and vocational education sector which is also attuned to the needs of the foreign employment labour market. This policy paper provides an overview of Nepal’s technical training sector, identifies the key challenges and issues that need to be addressed vis-à-vis labour migration, and provides recommendations on how these could be addressed.</p>
 </details>
 
-#### [Migration and Resilience: Experiences from Nepal's 2015 Earthquake](https://www.ceslam.org/uploads/backup/Migration-and-Resilience.pdf)
+### [Migration and Resilience: Experiences from Nepal's 2015 Earthquake](https://www.ceslam.org/uploads/backup/Migration-and-Resilience.pdf)
 With Bandita Sijapati, Jeevan Baniya, Anish Bhandari, Ashim Bhattarai, Sambriddhi Kharel, Amrita Limbu, Dinesh Pathak and Nabin Rawal. <br>
 _**Research Paper VII**_, CESLAM, 2015 
 <details>
