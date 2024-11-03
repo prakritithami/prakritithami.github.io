@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-#WORK IN PROGRESS
+# WORK IN PROGRESS
 
-## Truth-Telling in a Priority Pricing Mechanism
+### Truth-Telling in a Priority Pricing Mechanism
 (_**Job Market Paper**_ - _Draft coming soon_)
 <details>
   <summary>Abstract</summary>
@@ -31,8 +31,8 @@ _**Economic Modelling**_, 2024
   <p>Third-party payers often reimburse health care providers based on prospectively set prices. Although a key motivation of prospective payment is to contain costs, this paper shows that this aspect crucially depends on the design of the pricing scheme due to the well-known incentives of patient selection (or “dumping”). This paper provides a general theoretical framework where heterogeneous users are served by either private for-profit or public providers, each paid an hourly compensation by a third-party payer. The private, but not the public providers may select patients. It is demonstrated that this realistic feature of the model implies that total costs depend on the number of prices. The features of the model are illustrated using the Swedish system of personal assistance services as a motivating example. Numerical results show that marginal adjustments to the current uniform pricing scheme would lead to substantial savings.</p>
 </details>
 
-#OTHER
-##[Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
+# OTHER
+## [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
 With Ashim Bhattarai
 <details>
   <summary>Abstract</summary>
