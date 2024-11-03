@@ -34,6 +34,7 @@ _**Economic Modelling**_, 2024
 </details>
 
 Supplimentary Material: [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2)
+
 Presented at: 12th Conference on Economic Design (Padova, Italy)
 
 # OTHER
