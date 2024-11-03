@@ -7,14 +7,12 @@ author_profile: true
 
 {% include base_path %}
 # WORK IN PROGRESS
-
 ### Truth-Telling in a Priority Pricing Mechanism
 (_**Job Market Paper**_ - _Draft coming soon_)
 <details>
   <summary>Abstract</summary>
   <p> This paper examines the effects of truth-telling on expected aggregate consumer welfare within a priority pricing (PP) mechanism. Traditional models typically assume that individuals will invariably misrepresent private information if it maximizes their payoff; however, a substantial body of evidence suggests otherwise. Considering this, the expected aggregate consumer welfare of PP is compared to that of uniform pricing schemes, using a model that accounts for truth-telling preferences. The findings indicate that a threshold proportion of non-truthful, low-need agents must be surpassed for PP to enhance welfare. This theoretical insight implies that implementing PP can be advantageous in populations with a low propensity for truth-telling but may reduce welfare in populations with a high propensity for truth-telling. This theory is tested through a pre-registered, online, survey-based experiment. Although the anticipated differential impact between high and low truth-telling groups was not observed, the results provide valuable insights for policy considerations.</p>
 </details>
-
 
 ### Blood Supply Allocation: Trade-off Between Equity and Efficiency
 (_Draft coming soon_)
@@ -23,12 +21,8 @@ author_profile: true
   <p>ABO blood type compatibility can be exploited to attain a more equitable allocation of blood supply across patients with differing blood types. However, in a steady state, pooling procedures that seek to equalize the proportion of patients that get treated across compatible blood types could have an adverse effect on the total flow rate of treated patients. To address this issue, in this paper I derive the criteria which would ensure an efficient allocation and prove that in pairwise iterative pooling procedures as long as this efficiency criterion is satisfied in each step in which blood types are pooled, the final allocation will not be inefficient.</p>
 </details>
 
-
-# PUBLICATIONS 
-
-## Peer-Reviewed Journals
-
-### [Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
+# PUBLICATIONS (Peer-Reviewed Journals)
+## [Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
 With <a href="https://sites.google.com/site/tommyanderssonlunduniversity/home" target="_blank">Tommy Andersson</a>, <a href="https://sites.google.com/site/linamariaellegaard" target="_blank">Lina Maria Ellegård</a>, <a href="https://sites.google.com/view/andreea-enache" target="_blank">Andreea Enache</a>, and <a href="https://erlanson.weebly.com/" target="_blank">Albin Erlanson</a>.  
 _**Economic Modelling**_, 2024
 <details>
@@ -37,12 +31,10 @@ _**Economic Modelling**_, 2024
 </details>
 
 **Presented at:** 12th Conference on Economic Design (Padova, 2022)
-
 **Supplimentary Material:** [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2)
 
-
-## Other
-### [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
+# OTHER
+## [Labour Migration and Skills Training](https://www.ceslam.org/uploads/backup/CESLAM%20Policy%20Brief%20VII_Labour%20Migration%20and%20Skills%20Training.pdf)
 With Ashim Bhattarai.
 **CESLAM Policy Brief No. 7,** 2015
 <details>
