@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 # WORK IN PROGRESS
 <hr style="border: 1.5px solid;">
+
 ### Truth-Telling in a Priority Pricing Mechanism
 (_**Job Market Paper**_ - _Draft coming soon_)
 <details>
