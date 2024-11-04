@@ -24,7 +24,7 @@ may benefit populations with low truth-telling tendencies but reduce welfare whe
   <p align="justify">ABO blood type compatibility can be exploited to attain a more equitable allocation of blood supply across patients with differing blood types. However, in a steady state, pooling procedures that seek to equalize the proportion of patients that get treated across compatible blood types could have an adverse effect on the total flow rate of treated patients. To address this issue, in this paper I derive the criteria which would ensure an efficient allocation and prove that in pairwise iterative pooling procedures as long as this efficiency criterion is satisfied in each step in which blood types are pooled, the final allocation will not be inefficient.</p>
 </details> <br>
 
-# PUBLICATION (Peer-Reviewed Journal)
+# PUBLICATIONS (Peer-Reviewed Journals)
 <hr style="border: 1.5px solid;">
 
 ### [Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
