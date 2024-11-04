@@ -12,7 +12,7 @@ author_profile: true
 ### Truth-Telling in a Priority Pricing Mechanism
 (_**Job Market Paper**_ - _Draft coming soon_)
 <details>
-  <summary>ABSTRACT</summary>
+  <summary>Abstract</summary>
   <p align="justify"> This paper studies the impact of truth-telling preferences on aggregate consumer welfare within a priority pricing (PP) mechanism. Traditional models assume individuals always misrepresent private information to maximize payoffs, yet recent evidence suggests there may be an innate preference for truth-telling. By incorporating these preferences, I find that PP enhances welfare over uniform pricing only when the probability of non-truthful individuals surpasses a critical threshold, suggesting that PP
 may benefit populations with low truth-telling tendencies but reduce welfare when this tendency is high. To empirically test this, I conducted an online experiment, finding that while PP incentivized truth-telling, its impact did not vary significantly across groups with differing truth-telling tendencies. Instead, participants’ beliefs about others’ truthfulness emerged as key in shaping behavior. These findings underscore that PP’s welfare-enhancing potential depends not only on incentives created by the pricing structure but also on the population’s truth-telling tendencies and beliefs, offering valuable insights for designing effective pricing mechanisms.</p>
 </details>
