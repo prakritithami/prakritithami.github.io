@@ -9,8 +9,8 @@ author_profile: true
 # WORK IN PROGRESS
 <hr style="border: 1.5px solid;">
 
-### Truth-Telling in a Priority Pricing Mechanism
-(_**Job Market Paper**_ - _Draft coming soon_)
+### [Truth-Telling in a Priority Pricing Mechanism](https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/master/files/draft.pdf)
+(_**Job Market Paper**_)
 <details>
   <summary>Abstract</summary>
   <p align="justify"> This paper studies the impact of truth-telling preferences on aggregate consumer welfare within a priority pricing (PP) mechanism. Traditional models assume individuals always misrepresent private information to maximize payoffs, yet recent evidence suggests there may be an innate preference for truth-telling. By incorporating these preferences, I find that PP enhances welfare over uniform pricing only when the probability of non-truthful individuals surpasses a critical threshold, suggesting that PP
