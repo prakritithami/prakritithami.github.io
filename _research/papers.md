@@ -9,7 +9,7 @@ author_profile: true
 # WORK IN PROGRESS
 <hr style="border: 1.5px solid;">
 
-### [Truth-Telling in a Priority Pricing Mechanism](https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/master/files/draft.pdf)
+### [Truth-Telling in a Priority Pricing Mechanism](https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/master/files/JMP_Thami.pdf)
 (_**Job Market Paper**_)
 <details>
   <summary>Abstract</summary>
