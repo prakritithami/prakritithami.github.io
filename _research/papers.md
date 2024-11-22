@@ -17,6 +17,8 @@ author_profile: true
 may benefit populations with low truth-telling tendencies but reduce welfare when this tendency is high. To empirically test this, I conducted an online experiment, finding that while PP incentivized truth-telling, its impact did not vary significantly across groups with differing truth-telling tendencies. Instead, participants’ beliefs about others’ truthfulness emerged as key in shaping behavior. These findings underscore that PP’s welfare-enhancing potential depends not only on incentives created by the pricing structure but also on the population’s truth-telling tendencies and beliefs, offering valuable insights for designing effective pricing mechanisms.</p>
 </details>
 
+**Presented at:** Copenhagen Network for Experimental Economics Workshop (Lund, 2024)
+
 ### Blood Supply Allocation: Trade-off Between Equity and Efficiency
 (_Draft availible upon request_)
 <details>
