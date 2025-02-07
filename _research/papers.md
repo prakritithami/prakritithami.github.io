@@ -19,11 +19,15 @@ may benefit populations with low truth-telling tendencies but reduce welfare whe
 
 **Presented at:** Copenhagen Network for Experimental Economics Workshop (Lund, 2024)
 
+---
+
 ### [Blood Supply Allocation: Trade-off Between Equity and Efficiency](https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/master/files/blood_paper.pdf)
 <details>
   <summary>Abstract</summary>
   <p align="justify">Blood supply allocation can involve a trade-off between equity and efficiency. While ABO-compatible pooling can promote equitable access across blood types by redistributing supply among all compatible blood types, it may reduce the total number of treated patients in a steady-state setting. This paper derives a domination criterion for ABO-compatible pooling and shows that in iterative pairwise pooling procedures, the final allocation does not result in efficiency loss if this criterion is met at each step. Simulations based on the plasma donation and demand model by Kominers et al. (2020) indicate that failing to satisfy this criterion leads to inefficiencies in 7.11% of cases, with the number of treated patients decreasing by an average of 0.60% to 1.03%. These findings highlight the need to integrate efficiency considerations into blood allocation mechanisms to prevent equity-driven pooling from inadvertently reducing the number of treated patients.</p>
 </details> <br>
+
+---
 
 # PUBLICATIONS (Peer-Reviewed Journals)
 <hr style="border: 1.5px solid;">
@@ -39,6 +43,7 @@ _**Economic Modelling**_, Vol 141, 2024
 **Presented at:** 12th Conference on Economic Design (Padova, 2022)
 
 **Supplimentary Material:** [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2) <br><br>
+---
 
 # OTHER
 <hr style="border: 1.5px solid;">
@@ -50,6 +55,8 @@ _**CESLAM Policy Brief No. 7**_, 2015
   <summary>Abstract</summary>
   <p align="justify">Of the half a million or so Nepalis who left the country for work in 2013/14, nearly three quarters were classified as ‘unskilled’. This tendency of the majority of migrants being poorly trained is a cause for concern since low-skilled and ‘unskilled’ workers are more vulnerable to exploitation and abuse, are accorded fewer job benefits, and face limited earning potential. Addressing this issue will require a strong, well-organised technical and vocational education sector which is also attuned to the needs of the foreign employment labour market. This policy paper provides an overview of Nepal’s technical training sector, identifies the key challenges and issues that need to be addressed vis-à-vis labour migration, and provides recommendations on how these could be addressed.</p>
 </details>
+
+---
 
 ### [Migration and Resilience: Experiences from Nepal's 2015 Earthquake](https://ceslam.org/our-publications/migration-and-resilience-experiences-from-nepals-2015-earthquake/){:target="_blank"}
 With Bandita Sijapati, Jeevan Baniya, Anish Bhandari, Ashim Bhattarai, Sambriddhi Kharel, Amrita Limbu, Dinesh Pathak and Nabin Rawal. <br>
