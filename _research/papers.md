@@ -43,6 +43,7 @@ _**Economic Modelling**_, Vol 141, 2024
 **Presented at:** 12th Conference on Economic Design (Padova, 2022)
 
 **Supplimentary Material:** [Replication Codes](https://data.mendeley.com/datasets/rx35j3j8nr/2) <br><br>
+
 ---
 
 # OTHER
