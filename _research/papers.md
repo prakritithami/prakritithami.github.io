@@ -19,7 +19,7 @@ may benefit populations with low truth-telling tendencies but reduce welfare whe
 
 **Presented at:** Copenhagen Network for Experimental Economics Workshop (Lund, 2024)
 
-### Blood Supply Allocation: Trade-off Between Equity and Efficiency(https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/master/files/blood_paper.pdf)
+### [Blood Supply Allocation: Trade-off Between Equity and Efficiency](https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/master/files/blood_paper.pdf)
 (_Draft availible upon request_)
 <details>
   <summary>Abstract</summary>
