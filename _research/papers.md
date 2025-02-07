@@ -32,8 +32,9 @@ may benefit populations with low truth-telling tendencies but reduce welfare whe
 # PUBLICATIONS (Peer-Reviewed Journals)
 <hr style="border: 1.5px solid;">
 
-- **[Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)
+- **[Multiple Pricing for Personal Assistance Services](https://doi.org/10.1016/j.econmod.2024.106916)**
   With <a href="https://sites.google.com/site/tommyanderssonlunduniversity/home" target="_blank">Tommy Andersson</a>, <a href="https://sites.google.com/site/  linamariaellegaard" target="_blank">Lina Maria Ellegård</a>, <a href="https://sites.google.com/view/andreea-enache" target="_blank">Andreea Enache</a>, and <a href="https://erlanson.weebly.com/" target="_blank">Albin Erlanson</a>.  
+
   _**Economic Modelling**_, Vol 141, 2024
   <details>
     <summary>Abstract</summary>
