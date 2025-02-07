@@ -19,11 +19,11 @@ may benefit populations with low truth-telling tendencies but reduce welfare whe
 
 **Presented at:** Copenhagen Network for Experimental Economics Workshop (Lund, 2024)
 
-### Blood Supply Allocation: Trade-off Between Equity and Efficiency
+### Blood Supply Allocation: Trade-off Between Equity and Efficiency(https://raw.githubusercontent.com/prakritithami/prakritithami.github.io/master/files/blood_paper.pdf)
 (_Draft availible upon request_)
 <details>
   <summary>Abstract</summary>
-  <p align="justify">ABO blood type compatibility can be exploited to attain a more equitable allocation of blood supply across patients with differing blood types. However, in a steady state, pooling procedures that seek to equalize the proportion of patients that get treated across compatible blood types could have an adverse effect on the total flow rate of treated patients. To address this issue, in this paper I derive the criteria which would ensure an efficient allocation and prove that in pairwise iterative pooling procedures as long as this efficiency criterion is satisfied in each step in which blood types are pooled, the final allocation will not be inefficient.</p>
+  <p align="justify">Blood supply allocation can involve a trade-off between equity and efficiency. While ABO-compatible pooling can promote equitable access across blood types by redistributing supply among all compatible blood types, it may reduce the total number of treated patients in a steady-state setting. This paper derives a domination criterion for ABO-compatible pooling and shows that in iterative pairwise pooling procedures, the final allocation does not result in efficiency loss if this criterion is met at each step. Simulations based on the plasma donation and demand model by Kominers et al. (2020) indicate that failing to satisfy this criterion leads to inefficiencies in 7.11% of cases, with the number of treated patients decreasing by an average of 0.60% to 1.03%. These findings highlight the need to integrate efficiency considerations into blood allocation mechanisms to prevent equity-driven pooling from inadvertently reducing the number of treated patients.</p>
 </details> <br>
 
 # PUBLICATIONS (Peer-Reviewed Journals)
