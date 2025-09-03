@@ -12,6 +12,6 @@ I am a PhD candidate in Economics at <a href="https://portal.research.lu.se/en/p
 
 <p align="justify">I have an MSc in Economics from Lund University, and a BA in Economics and Visual Arts from Brown University. Before pursuing graduate studies, I worked for several years, gaining experience in labor migration research, economic consulting, and project development.</p>
 
-I am currently on the job market for the 2024/2025 academic year.
+
 
 
